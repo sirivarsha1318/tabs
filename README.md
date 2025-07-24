@@ -2,6 +2,10 @@
 
 This is a simple and clean tab-switching interface built with **HTML**, **CSS**, and **JavaScript**. It demonstrates how to create an interactive tab system where users can click buttons to switch between different content panels.
 
+## 🌐 Live Project
+
+You can try the live version here: [https://sirivarsha1318.github.io/tabs/](https://sirivarsha1318.github.io/tabs/)
+
 ## 🔥 Features
 
 - Dynamic tab switching using pure JavaScript
