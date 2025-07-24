@@ -9,6 +9,7 @@ This is a simple and clean tab-switching interface built with **HTML**, **CSS**,
 - Clean and responsive layout
 - Custom styling using modern CSS
 - Easily extendable and customizable
+- https://roadmap.sh/projects/simple-tabs
 
 ## 📂 File Structure
 
